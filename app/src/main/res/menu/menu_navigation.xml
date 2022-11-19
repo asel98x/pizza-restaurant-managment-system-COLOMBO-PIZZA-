@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/orders"
+        android:title="Orders"
+        android:icon="@drawable/bike_scooter"/>
+
+    <item
+        android:id="@+id/foods"
+        android:title="Foods"
+        android:icon="@drawable/fastfood"/>
+
+    <item
+        android:id="@+id/emplyees"
+        android:title="Employees"
+        android:icon="@drawable/user"/>
+
+    <item
+        android:id="@+id/customer"
+        android:title="Customers"
+        android:icon="@drawable/customer"/>
+</menu>
